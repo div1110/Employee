@@ -1,0 +1,12 @@
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="testSuite" verbose="1">
+    <test name="employeetestcases">
+        <classes>
+            <class name="GetEmployeeDetails">
+                <methods>
+                    <include name="getEmpdata"></include>
+                </methods>
+            </class>
+        </classes>
+    </test>
+</suite>

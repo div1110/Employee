@@ -1,0 +1,8 @@
+2022-09-13 19:00:24 INFO  Utils:112 - [TestNG] Time taken by org.testng.internal.ExitCodeListener@704f1591: 0 ms
+2022-09-13 19:00:24 INFO  Utils:112 - [TestNG] Time taken by org.testng.reporters.SuiteHTMLReporter@315f43d5: 65 ms
+2022-09-13 19:00:24 ERROR Main:165 - C:\Users\Admin\eclipse-workspace\EmployeeDetails\test-output\jquery-3.6.0.min.js
+2022-09-13 19:00:24 INFO  Utils:112 - [TestNG] Time taken by org.testng.reporters.jq.Main@765f05af: 48 ms
+2022-09-13 19:00:24 INFO  Utils:112 - [TestNG] Time taken by org.testng.reporters.FailedReporter@55342f40: 28 ms
+2022-09-13 19:00:24 INFO  Utils:112 - [TestNG] Time taken by org.testng.reporters.XMLReporter@3b2c0e88: 13 ms
+2022-09-13 19:00:24 INFO  Utils:112 - [TestNG] Time taken by org.testng.reporters.EmailableReporter2@4189d70b: 24 ms
+2022-09-13 19:00:24 INFO  Utils:112 - [TestNG] Time taken by org.testng.reporters.JUnitReportReporter@abf688e: 6 ms
